@@ -11,7 +11,7 @@ Hi, I'm [Annalena Holz](https://github.com/AnnalenaHolz/), a passionate self-tau
 I´m also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 - 💬 ask me about anything, i am happy to help do reach, [email](mailto:anna.holz1109@gmail.com) :)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnnalenaHolz&theme=onedark&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnnalenaHolz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnalenaHolz&theme=radical&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 **this week i spent my time on:**
