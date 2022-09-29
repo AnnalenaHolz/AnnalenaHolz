@@ -11,8 +11,8 @@ Hi, I'm [Annalena Holz](https://github.com/AnnalenaHolz/), a passionate self-tau
 I´m also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 - 💬 ask me about anything, i am happy to help do reach, [email](mailto:anna.holz1109@gmail.com) :)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnnalenaHolz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnalenaHolz&theme=radical&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnnalenaHolz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnalenaHolz&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
 
 if you like what I do, maybe consider buying me a tea 🥺👉👈
@@ -23,6 +23,6 @@ if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 [![Annalena's github stats](https://github-readme-stats.vercel.app/api?username=AnnalenaHolz&count_private=true&show_icons=true&theme=one&show_owner=true)](https://github.com/carinaschoppe)
 
-[![Annalena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnnalenaHolz)](https://github.com/anuraghazra/github-readme-stats)
+[![Annalena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnnalenaHolz&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
