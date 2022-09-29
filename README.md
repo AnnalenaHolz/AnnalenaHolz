@@ -14,11 +14,6 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnnalenaHolz&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnalenaHolz&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
-
-if you like what I do, maybe consider buying me a tea 🥺👉👈
-
-<a href="https://paypal.me/AnnalenaHolz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 📈 my github stats
 
 [![Annalena's github stats](https://github-readme-stats.vercel.app/api?username=AnnalenaHolz&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/carinaschoppe)
