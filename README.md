@@ -13,20 +13,6 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnnalenaHolz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnalenaHolz&theme=radical&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Kotlin           7 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   40.36 %
-C#               4 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-Java             3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
-Python           1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Jupyter          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-YAML             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-```
-
-<!--END_SECTION:waka-->
  
 
 if you like what I do, maybe consider buying me a tea 🥺👉👈
