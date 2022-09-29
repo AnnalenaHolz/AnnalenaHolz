@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@AnnalenaHolz-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/annalena.holz/)](https://instagram.com/annalena.holz)
 [![Snapchat Badge](https://img.shields.io/badge/-@CatJogger1109-f0ff00?style=flat&labelColor=f0ff00&logo=Snapchat&logoColor=black&)]()
 ![](https://visitor-badge.glitch.me/badge?page_id=pixelsde.pixelsde)
-[![wakatime](https://wakatime.com/badge/user/9676799f-e161-4357-b040-946544ef44a5.svg)](https://wakatime.com/@9676799f-e161-4357-b040-946544ef44a5)
+[![wakatime](https://wakatime.com/badge/user/50009e5e-bfc8-498e-8ef7-6ac04ec863e5.svg)](https://wakatime.com/@50009e5e-bfc8-498e-8ef7-6ac04ec863e5)
 <br />
 Hi, I'm [Annalena Holz](https://github.com/AnnalenaHolz/), a passionate self-taught full stack developer and a freelance software engineer from germany. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
