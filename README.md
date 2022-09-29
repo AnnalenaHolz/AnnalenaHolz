@@ -21,8 +21,8 @@ if you like what I do, maybe consider buying me a tea 🥺👉👈
 
 📈 my github stats
 
-[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=AnnalenaHolz&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/carinaschoppe)
+[![Annalena's github stats](https://github-readme-stats.vercel.app/api?username=AnnalenaHolz&count_private=true&show_icons=true&theme=one&show_owner=true)](https://github.com/carinaschoppe)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnnalenaHolz)](https://github.com/anuraghazra/github-readme-stats)
+[![Annalena's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnnalenaHolz)](https://github.com/anuraghazra/github-readme-stats)
 
 
